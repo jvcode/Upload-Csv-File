@@ -1,0 +1,31 @@
+h1
+{
+	font-size: 2em;	
+}
+#file
+{
+	color : red;
+}
+#upload
+{
+	border-radius:50px;
+	background-color: #1ec8e6;	
+	width:100px;
+	height:30px;
+}
+#upload:hover
+{
+	border-radius:50px;
+	background-color: cyan;	
+	width:100px;
+	height:30px;
+} 
+table
+{
+	border:1px solid black;
+	border-spacing: 0px;
+}
+table thead
+{
+	background-color : #c0c0c0;
+}
